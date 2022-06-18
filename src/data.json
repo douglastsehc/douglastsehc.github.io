@@ -1,0 +1,167 @@
+{
+    "about": {
+      "intro": "profilepic.jpg",
+      "description": "Use this bio section a"
+    },
+    "home":{
+        "name": "HELLO",
+        "selfIntro": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+        "currentAim": "youremailhere@gmail.com"
+    },
+      "social": [{
+          "title": "linkedin",
+          "link": "https://www.linkedin.com.com",
+          "color": "fa fa-linkedin"
+        },{
+          "title": "Github",
+          "link": "http://github.com/",
+          "color": "fa fa-github"
+        }],
+    "resume": {
+      "educationItemList": [
+        {
+          "year": "2046",
+          "school": "Masters in Beer tasting",
+          "degree": "April 0007",
+          "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        }
+      ],
+      "experienceItemList": [
+        {
+            "year": "Awesome",
+            "company": "Junior UX God ",
+            "position": "March 2010 - 2011",
+            "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+            "experienceItemList":[
+                {
+                    "techType": "frontend",
+                    "techDescription": "React,"
+                },
+                {
+                    "techType": "frontend",
+                    "techDescription": "React,"
+                }
+            ]
+        },
+        {
+            "year": "Awesome Design Studio",
+            "company": "Senior UX God ",
+            "position": "March 2010 - Present",
+            "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+            "experienceItemList":[
+                {
+                    "techType": "frontend",
+                    "techDescription": "React,"
+                },
+                {
+                    "techType": "frontend",
+                    "techDescription": "React,"
+                }
+            ]        
+        },
+        {
+            "year": "Awesome Design Studio",
+            "company": "Senior UX God ",
+            "position": "March 2010 - Present",
+            "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+            "experienceItemList":[
+                {
+                    "techType": "frontend",
+                    "techDescription": "React,"
+                },
+                {
+                    "techType": "frontend",
+                    "techDescription": "React,"
+                }
+            ]        
+        }
+      ]
+    },
+      "skills": {
+        "frontend":[
+        {
+          "language": "Git",
+          "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        }],
+        "backend":[
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        }],
+        "mobile":[
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        }],
+        "devops":[
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        },
+        {
+            "language": "Git",
+            "color": 6
+        }]
+    },
+    "works": [
+    {
+        "title": "Canadian Wanderlust",
+        "bgImage": "My Travel Blog for my post-university travels",
+        "link": "canadian-wanderlust.jpg"
+    },
+    {
+        "title": "Canadian Wanderlust",
+        "bgImage": "My Travel Blog for my post-university travels",
+        "link": "canadian-wanderlust.jpg"
+    },
+    {
+        "title": "Canadian Wanderlust",
+        "bgImage": "My Travel Blog for my post-university travels",
+        "link": "canadian-wanderlust.jpg"
+    }
+    ]
+}
