@@ -39,7 +39,7 @@ const Navbar = ({socialIconList}: {socialIconList: SocialIconProps[]}) => {
         </li>
         <li>
           <Link to='background' smooth={true} duration={500}>
-            My background
+            Background
           </Link>
         </li>
 
@@ -84,7 +84,7 @@ const Navbar = ({socialIconList}: {socialIconList: SocialIconProps[]}) => {
         <li className='py-6 text-4xl'>
           {' '}
           <Link onClick={handleClick} to='background' smooth={true} duration={500}>
-            My background
+           Background
           </Link>
         </li>
       </ul>
